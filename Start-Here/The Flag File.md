@@ -1,0 +1,1 @@
+pwn.college{QtfzucUuUOnMtRBJdEf2g5Ub2WN.QX5IzNzwyMwEzM2EzW}
