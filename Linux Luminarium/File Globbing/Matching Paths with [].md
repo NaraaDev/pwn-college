@@ -1,0 +1,3 @@
+hacker@globbing~matching-paths-with-:~$ /challenge/run
+Error: you did not use a square bracket glob...
+hacker@globbing~matching-paths-with-:~$ /challenge/run /challenge/files/file\_[abhs]
